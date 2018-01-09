@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1507933300 source:c:\users\ahmet\prolab-2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
